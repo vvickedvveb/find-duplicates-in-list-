@@ -1,4 +1,4 @@
-# find Duplicates In A List
+# Find Duplicates In A List
 
 Find Duplicates in a List in Python.
 Includes a hard to read one-liner comprehension (Seriously, I wrote this not too long ago and had to stare at it a bit.) and sets to find duplicates from a List.
